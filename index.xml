@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Natalia Navarrete on Nombre Apellido - Taller Producto 2021</title>
-    <link>/</link>
-    <description>Recent content in Natalia Navarrete on Nombre Apellido - Taller Producto 2021</description>
+    <title>Natalia Navarrete on Natalia Navarrete - Taller Producto 2021</title>
+    <link>https://www.natalianc.github.io/</link>
+    <description>Recent content in Natalia Navarrete on Natalia Navarrete - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://www.natalianc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trabajos Previos</title>
-      <link>/docs/trabajos-previos/</link>
+      <link>https://www.natalianc.github.io/docs/trabajos-previos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/trabajos-previos/</guid>
+      <guid>https://www.natalianc.github.io/docs/trabajos-previos/</guid>
       <description>trabajos personales antiguos</description>
     </item>
     
     <item>
       <title>Encargo 01</title>
-      <link>/docs/entrega-01/</link>
+      <link>https://www.natalianc.github.io/docs/entrega-01/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/entrega-01/</guid>
+      <guid>https://www.natalianc.github.io/docs/entrega-01/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Encargo 02</title>
-      <link>/docs/entrega-02/</link>
+      <link>https://www.natalianc.github.io/docs/entrega-02/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/entrega-02/</guid>
+      <guid>https://www.natalianc.github.io/docs/entrega-02/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Ejemplo </title>
-      <link>/docs/ejemplo/</link>
+      <link>https://www.natalianc.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/ejemplo/</guid>
+      <guid>https://www.natalianc.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
