@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://natalianc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trabajos Previos</title>
+      <title>Post 0.0</title>
       <link>https://natalianc.github.io/docs/trabajos-previos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -17,16 +17,7 @@
     </item>
     
     <item>
-      <title>Silla 40/4</title>
-      <link>https://natalianc.github.io/docs/entrega-02/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://natalianc.github.io/docs/entrega-02/</guid>
-      <description>Contextualización Silla 40/4 - David Rowland</description>
-    </item>
-    
-    <item>
-      <title>Silla Pane</title>
+      <title>Post 1.0</title>
       <link>https://natalianc.github.io/docs/entrega-01/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -35,16 +26,16 @@
     </item>
     
     <item>
-      <title>Lectura</title>
-      <link>https://natalianc.github.io/docs/entrega-03/</link>
+      <title>Post 1.1</title>
+      <link>https://natalianc.github.io/docs/entrega-02/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://natalianc.github.io/docs/entrega-03/</guid>
-      <description>Presentación gráfica de la lectura &amp;ldquo;Speculative Everything&amp;rdquo;</description>
+      <guid>https://natalianc.github.io/docs/entrega-02/</guid>
+      <description>Contextualización Silla 40/4 - David Rowland</description>
     </item>
     
     <item>
-      <title>Propuesta Familias</title>
+      <title>Post 1.2</title>
       <link>https://natalianc.github.io/docs/entrega-03-copy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -53,7 +44,7 @@
     </item>
     
     <item>
-      <title>Entrega Grupal 01</title>
+      <title>Post 1.3</title>
       <link>https://natalianc.github.io/docs/entrega-03-copy-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -62,7 +53,7 @@
     </item>
     
     <item>
-      <title>Entrega Grupal 02</title>
+      <title>post 1.4</title>
       <link>https://natalianc.github.io/docs/entrega-03-copy-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -71,7 +62,7 @@
     </item>
     
     <item>
-      <title>Entrega Grupal Final MINIMMANA</title>
+      <title>Post 1.5</title>
       <link>https://natalianc.github.io/docs/entrega-03-copy-4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -80,7 +71,7 @@
     </item>
     
     <item>
-      <title>Entrega personal Final</title>
+      <title>Post 1.6</title>
       <link>https://natalianc.github.io/docs/entrega-03-copy-5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -95,6 +86,24 @@
       
       <guid>https://natalianc.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Post 2.0</title>
+      <link>https://natalianc.github.io/docs/trabajos-previos-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://natalianc.github.io/docs/trabajos-previos-copy/</guid>
+      <description>Entrevistas Unidad 2 Bits &amp;amp; Bites</description>
+    </item>
+    
+    <item>
+      <title>Post Lectura</title>
+      <link>https://natalianc.github.io/docs/entrega-03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://natalianc.github.io/docs/entrega-03/</guid>
+      <description>Presentación gráfica de la lectura &amp;ldquo;Speculative Everything&amp;rdquo;</description>
     </item>
     
   </channel>
