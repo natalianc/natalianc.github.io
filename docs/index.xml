@@ -80,15 +80,6 @@
     </item>
     
     <item>
-      <title>Ejemplo </title>
-      <link>https://natalianc.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://natalianc.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
       <title>Post 2.0</title>
       <link>https://natalianc.github.io/docs/trabajos-previos-copy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -98,12 +89,30 @@
     </item>
     
     <item>
+      <title>Post 2.1</title>
+      <link>https://natalianc.github.io/docs/trabajos-previos-copy-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://natalianc.github.io/docs/trabajos-previos-copy-2/</guid>
+      <description>Fotogrametria</description>
+    </item>
+    
+    <item>
       <title>Post Lectura</title>
       <link>https://natalianc.github.io/docs/entrega-03/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://natalianc.github.io/docs/entrega-03/</guid>
       <description>Presentación gráfica de la lectura &amp;ldquo;Speculative Everything&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo </title>
+      <link>https://natalianc.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://natalianc.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
   </channel>
